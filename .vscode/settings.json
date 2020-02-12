@@ -1,0 +1,16 @@
+{
+    "githubPullRequests.remotes": [
+        "origin"
+    ],
+    "git.autofetch": true,
+    "git.ignoredRepositories": [
+        "https://github.com/ChrismeanR/github-slideshow"
+    ],
+    "git.rebaseWhenSync": true,
+    "git.scanRepositories": [
+        "C:\\Projects"
+    ],
+    "git.smartCommitChanges": "tracked",
+    "git.supportCancellation": true,
+    "githubPullRequests.showInSCM": true
+}
